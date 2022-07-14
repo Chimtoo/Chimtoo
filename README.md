@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madhuri V
+- 👋 Hi, I’m Prasanna
 - 👀 I’m interested in Data Science. I used to work as a Senior Data Analyst.
 - 🌱 I’m currently learning Data Science and AI Concepts
 - 💞️ I’m looking to collaborate on ...
