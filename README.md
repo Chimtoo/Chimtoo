@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasanna
+- 👋 Hi, I’m Madhuri
 - 👀 I’m working professional with an experience of 2 year as a Data Scientist and 8 year as a Senior Data Analyst.
 - 🌱 I’m currently learning more AI Concepts.
 - 💞️ I’m looking to collaborate on Machine Learning,Deep Learning and AI concepts.
